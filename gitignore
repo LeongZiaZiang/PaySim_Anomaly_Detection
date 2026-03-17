@@ -1,0 +1,20 @@
+# Dataset - download from Kaggle
+*.csv
+
+# Trained model artifact
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
