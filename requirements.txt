@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+kafka-python
+river
+xgboost
+lightgbm
+scikit-learn
+joblib
+numpy
+pandas
+streamlit
+requests
+plotly
