@@ -1,6 +1,6 @@
 # Real-Time Fraud Detection System
 
-A real-time transaction fraud detection pipeline that streams PaySim bank transactions through Kafka and scores them simultaneously with two models — a pre-trained XGBoost classifier and an online-learning River HalfSpaceTrees model. Results are served via a FastAPI backend and visualised on a live Streamlit dashboard.
+A real-time transaction fraud detection pipeline that streams PaySim money transactions through Kafka and scores them simultaneously with two models — a pre-trained XGBoost classifier and an online-learning River HalfSpaceTrees model. Results are served via a FastAPI backend and visualised on a live Streamlit dashboard.
 
 ---
 
